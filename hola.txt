@@ -2,4 +2,3 @@ hola mundo
 Hola nuevamente
 Línea extra 1
 Línea extra 2
-Última línea antes de revertir
